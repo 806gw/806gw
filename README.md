@@ -1,5 +1,8 @@
-### Hi Wep frontend developer Seong hong jea 👋
+![header](https://capsule-render.vercel.app/api?type=Waving)
+<br/>
+####  :wave: Welcome my github profile !
 
+:iphone: My Contact
 <div>
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
         <img
@@ -25,6 +28,7 @@
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
       </a>
 </div>
+<br/>
 
 ![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=8_06gw)
 ![github stats](https://github-readme-stats.vercel.app/api?username=806gw)
