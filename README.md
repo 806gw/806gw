@@ -34,7 +34,7 @@
 
 <div>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp   
-      <img src="https://img.shields.io/badge/Java-217796?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp   
+      <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp   
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
