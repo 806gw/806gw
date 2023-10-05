@@ -40,7 +40,5 @@
 </div>
 <br/>
 
-![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=8_06gw)
-![github stats](https://github-readme-stats.vercel.app/api?username=806gw)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=806gw)
 
