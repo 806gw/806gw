@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving)
-<br/>
 ####  :wave: Welcome my github profile !
 
 :iphone: My Contact
@@ -33,3 +32,6 @@
 ![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=8_06gw)
 ![github stats](https://github-readme-stats.vercel.app/api?username=806gw)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=806gw)
+
+<br/>
+<img src="https://img.shields.io/badge/Html-E96227?style=for-the-badge&logo=Html&logoColor=white">
