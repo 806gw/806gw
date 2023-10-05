@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
+
 ####  :wave: Welcome my github profile !
 
 :iphone: My Contact
@@ -28,10 +28,17 @@
       </a>
 </div>
 <br/>
+:computer: Study
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp   
+</div>
+<br/>
 
 ![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=8_06gw)
 ![github stats](https://github-readme-stats.vercel.app/api?username=806gw)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=806gw)
 
-<br/>
-<img src="https://img.shields.io/badge/Html-E96227?style=for-the-badge&logo=Html&logoColor=white">
