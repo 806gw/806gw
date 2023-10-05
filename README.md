@@ -1,7 +1,7 @@
 
 ####  :wave: Welcome my github profile !
 
-:iphone: My Contact
+<p>📱 My Contact</p>
 <div>
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
         <img
@@ -29,7 +29,7 @@
 </div>
 <br/>
 
-💻 Study
+<p>💻 Study</p>
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
