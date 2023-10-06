@@ -1,12 +1,12 @@
 
 ####  :wave: Welcome my github profile !
 
-<p>📱 My Contact</p>
+#### <p>📱 My Contact</p> 
 
 <div>
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
         <img
-          src="https://img.shields.io/badge/Notion-404040?style=for-the-badge&logo=notion&logoColor=white"
+          src="https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=notion&logoColor=white"
           style="height: auto; margin-left: 10px; margin-right: 10px"
         />
       </a>
@@ -30,7 +30,7 @@
 </div>
 <br/>
 
-<p>💻 Study</p>
+ #### <p>💻 Study</p>
 
 <div>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp   
@@ -42,8 +42,7 @@
 </div>
 <br/>
 
-<p>🛠️ Tools</p>
-
+#### <p>🛠️ Tools</p>
 <div>
       <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/eclipseIDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp   
