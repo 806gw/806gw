@@ -1,7 +1,7 @@
 
 ####  :wave: Welcome my github profile !
 
-#### <p>📱 My Contact</p> 
+#### 📱 My Contact 
 
 <div>
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
@@ -30,7 +30,7 @@
 </div>
 <br/>
 
- #### <p>💻 Study</p>
+ #### 💻 Study
 
 <div>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp   
@@ -42,7 +42,7 @@
 </div>
 <br/>
 
-#### <p>🛠️ Tools</p>
+#### 🛠️ Tools
 <div>
       <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/eclipseIDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp   
