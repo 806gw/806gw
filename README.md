@@ -2,7 +2,7 @@
 ####  <h1>:wave: Welcome my github profile !<h1>
 <br/>
 
-#### 📱 My Contact 
+#### <h3>📱 My Contact <h3>
 
 <div>
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
@@ -31,7 +31,7 @@
 </div>
 <br/>
 
- #### 💻 Study
+ #### <h3> 💻 Study <h3>
 
 <div>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp   
@@ -43,14 +43,14 @@
 </div>
 <br/>
 
-#### 🛠️ Tools
+#### <h3> 🛠️ Tools <h3>
 <div>
       <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/eclipseIDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp   
 </div>
 <br/>
 
-#### 💪 Stats
+#### <h3> 💪 Stats <h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=806gw&layout=compact">
 
 
