@@ -2,8 +2,9 @@
 ####  <h1>:wave: Welcome my github profile !<h1>
 <br/>
 
-#### <h3>📱 My Contact <h3>
-
+<div display="flex" style"" align="center"> 
+      <img style="" src="https://github.com/806gw/806gw/assets/133763382/bfaedf5e-32ae-462f-b5e7-3cc511e68272" width="400px" heigt="80px"/>
+      
 <div>
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
         <img
@@ -29,6 +30,8 @@
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
       </a>
 </div>
+</div>
+<hr/>
 <br/>
 
  #### <h3> 💻 Study <h3>
