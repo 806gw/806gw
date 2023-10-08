@@ -1,9 +1,6 @@
 
 ####  <h1>:wave: Hi there<h1>
 <br/>
-<div display="flex" style"" align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4915FA&width=435&lines=npm+install+-g+create-react-app" alt="Typing SVG"/></a>
-<div/>
 <div display="flex" style"" align="center"> 
       <img style="" src="https://github.com/806gw/806gw/assets/133763382/bfaedf5e-32ae-462f-b5e7-3cc511e68272" width="400px" heigt="80px"/>
 <div>
@@ -35,9 +32,11 @@
 <hr/>
 <br/>
 
- #### <h3> 💻 Study <h3>
+ #### <h3> 💻 Studying <h3>
 
 <div>
+      <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>&nbsp   
+      <img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/></a>&nbsp   
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp   
       <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp  
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
