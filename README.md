@@ -1,5 +1,5 @@
 
-####  <h1>:wave: Welcome my github profile !<h1>
+####  <h1>:wave: Hi there<h1>
 <br/>
 <div display="flex" style"" align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4915FA&width=435&lines=npm+install+-g+create-react-app" alt="Typing SVG"/></a>
