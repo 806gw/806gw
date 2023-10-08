@@ -1,10 +1,11 @@
 
 ####  <h1>:wave: Welcome my github profile !<h1>
 <br/>
-
+<div display="flex" style"" align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4915FA&width=435&lines=npm+install+-g+create-react-app" alt="Typing SVG"/></a>
+<div/>
 <div display="flex" style"" align="center"> 
       <img style="" src="https://github.com/806gw/806gw/assets/133763382/bfaedf5e-32ae-462f-b5e7-3cc511e68272" width="400px" heigt="80px"/>
-      
 <div>
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
         <img
