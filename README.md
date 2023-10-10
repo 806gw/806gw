@@ -50,7 +50,7 @@
 <div>
       <img src="https://img.shields.io/badge/windows-0078D4?style=flat-square&logo=windows&logoColor=white"/></a>&nbsp  
       <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/eclipseIDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp   
+      <img src="https://img.shields.io/badge/Intelliji-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>&nbsp   
 </div>
 <br/>
 
