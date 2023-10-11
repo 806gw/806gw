@@ -55,4 +55,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=806gw&show_icons=true&theme=tokyonight)
 <br/>
 <br/>
-![My Discord](https://discord-readme-badge.vercel.app/api?id=434708143176548352)
