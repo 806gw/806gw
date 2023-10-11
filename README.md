@@ -56,5 +56,7 @@
 
 #### <h3> 💪 Stats <h3>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=806gw&layout=compact&theme=tokyonight)
+<br/>
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=806gw&show_icons=true&theme=tokyonight)
 
