@@ -1,18 +1,12 @@
 
 ####  <h1>:wave: Hi there<h1>
-<br/>
+
 <div display="flex" style"" align="center"> 
       <img style="" src="https://github.com/806gw/806gw/assets/133763382/bfaedf5e-32ae-462f-b5e7-3cc511e68272" width="400px" heigt="80px"/>
-<div>
+      <div>
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
         <img
           src="https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=notion&logoColor=white"
-          style="height: auto; margin-left: 10px; margin-right: 10px"
-        />
-      </a>
-      <a href="https://www.instagram.com/8.06gw/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/Instagram-eb347a?style=for-the-badge&logo=instagram&logoColor=white"
           style="height: auto; margin-left: 10px; margin-right: 10px"
         />
       </a>
@@ -22,8 +16,8 @@
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
       </a>
 </div>
+
 </div>
-<hr/>
 <br/>
 
  #### <h3> 💻 Studying <h3>
