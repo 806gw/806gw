@@ -40,8 +40,8 @@
  <div align="center">
    <h3> 💪 Stats</h3>
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=806gw&show_icons=true&theme=shadow_red)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=806gw&layout=compact&theme=shadow_red)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=806gw&show_icons=true&theme=blue_navy)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=806gw&layout=compact&theme=blue_navy)
 </div>
 
 
