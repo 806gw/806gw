@@ -28,8 +28,9 @@
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
       </a>
 </div>
-        <h3> 💻 Studying <h3>
-         <div>
+</div>
+       <h3> 💻 Studying <h3>
+         <div align="center">
       <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>&nbsp   
       <img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/></a>&nbsp   
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp   
@@ -41,13 +42,12 @@
          </div> <br/>
 
  <h3> 💪 Stats <h3>
-
+ <div align="center">
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=806gw&show_icons=true&theme=shadow_red)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=806gw&layout=compact&theme=shadow_red)
+
 </div>
-<br/>
-
-
 
 
 
