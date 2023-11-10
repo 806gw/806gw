@@ -30,14 +30,14 @@
 </div>
 <br/>
          <div align="center">
-          <h3>💻 Studying</h3>  
+          <h2>💻 Studying</h2>  
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp   
          </div> 
  <br/>
  <div align="center">
-   <h3> 💪 Stats</h3>
+   <h2> 💪 Stats</h2>
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=806gw&show_icons=true&theme=blue_navy)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=806gw&layout=compact&theme=blue_navy)
