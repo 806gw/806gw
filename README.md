@@ -1,7 +1,7 @@
 
 
 <div display="flex" style"" align="center"> 
-      <img style="" src="https://github.com/806gw/806gw/assets/133763382/bfaedf5e-32ae-462f-b5e7-3cc511e68272" width="400px" heigt="80px"/>
+      <img style="" src="https://github.com/806gw/806gw/assets/133763382/a9ab1503-abdf-4bcf-8bd1-10a9ee11cc98" width="800px" heigt="80px"/>
       <div>
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
         <img
