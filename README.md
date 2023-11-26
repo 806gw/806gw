@@ -1,23 +1,13 @@
 
 
-<div display="flex" style"" align="center"> 
-      <img style="" src="https://github.com/806gw/806gw/assets/133763382/a9ab1503-abdf-4bcf-8bd1-10a9ee11cc98" width="800px" heigt="80px"/>
-</div>
-<br/>
-         <div align="center">
-          <h3 font-size="1.5rem">💻 Studying</h3>  
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp   
-         </div> 
- <br/>
  <div align="center">
-   <h3 font-size="1.5rem"> 💪 Stats</h3>
-    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=806gw&show_icons=true&theme=blue_navy)
+   <h3 font-size="1.5rem"> Stats</h3>
+       
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=806gw&layout=compact&theme=blue_navy)
 </div>
-      <div display="flex" style"" align="center">
+
+
+  <div display="flex" style"" align="center">
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
         <img
           src="https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=notion&logoColor=white"
@@ -42,9 +32,6 @@
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
       </a>
 </div>
-
-
-
 
 
 
