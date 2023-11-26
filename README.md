@@ -1,11 +1,5 @@
 
 
- <div align="center">
-   <h3 font-size="1.5rem"> Stats</h3>
-       
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=806gw&layout=compact&theme=blue_navy)
-</div>
-
 
   <div display="flex" style"" align="center">
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
