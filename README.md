@@ -1,6 +1,3 @@
- 
-
-
   <div display="flex" style"" align="center">
     <a href="mailto:"shjea4364@naver.com" target="_blank">    
         <img 
@@ -26,6 +23,3 @@
       </a>
       </a>
 </div>
-
-
-
