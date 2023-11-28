@@ -1,4 +1,4 @@
-<img src="" width="1000px" align="center"/>
+<!-- <img src="" width="1000px" align="center"/> -->
   <div style"" align="center">
     <a href="mailto:"shjea4364@naver.com" target="_blank">   
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
@@ -22,6 +22,5 @@
           src="https://img.shields.io/badge/Instagram-eb347a?style=for-the-badge&logo=instagram&logoColor=white"
           style="height: auto; margin-left: 10px; margin-right: 10px"
         />
-      </a>
-     
+      </a>   
 </div> 
