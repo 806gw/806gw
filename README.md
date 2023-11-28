@@ -1,4 +1,7 @@
-<!-- <img src="" width="1000px" align="center"/> -->
+<div align="center">
+<img src="https://github.com/806gw/806gw/assets/133763382/96ea1973-04f2-4c42-9ae7-c7505d769bb9"/>
+</div>
+<br/>
   <div style"" align="center">
     <a href="mailto:"shjea4364@naver.com" target="_blank">   
       <a href="https://flossy-chord-58c.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4" target="_blank">
