@@ -15,4 +15,8 @@
   <a href="https://www.instagram.com/8.06gw/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-eb347a?style=for-the-badge&logo=instagram&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;" />
   </a>   
+  <br/>
+  <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=806gw&theme=blue_navy&bg_color=00000000&border_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=806gw&layout=compact&theme=blue_navy&bg_color=00000000&border_color=00000000" />
 </div>
