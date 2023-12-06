@@ -19,4 +19,4 @@
   <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=806gw&theme=blue_navy&bg_color=00000000&border_color=00000000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=806gw&layout=compact&theme=blue_navy&bg_color=00000000&border_color=00000000" />
-</div>
+</div> 
