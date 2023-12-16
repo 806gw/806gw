@@ -1,4 +1,5 @@
 <div align="center">
+<!--   <img src="https://github.com/806gw/806gw/assets/133763382/96ea1973-04f2-4c42-9ae7-c7505d769bb9" /> -->
   <img src="https://github.com/806gw/806gw/assets/133763382/96ea1973-04f2-4c42-9ae7-c7505d769bb9" />
 </div>
 <br/>
