@@ -31,7 +31,7 @@
 I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 \
 \
-**[More about me](https://806gw.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4)**
+**[More?](https://806gw.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4)**
 \
 \
 ```React``` ```Typescript```
