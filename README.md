@@ -34,6 +34,6 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 \ -->
 <img src="https://camo.githubusercontent.com/ea09d843e584c4c4365baf0f1b8e691a36e7355536170ea93d45ca58308e507a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966" width="70px" align="left">
 
-``` I am Gyeongbuk Software High school Student``` </br>
+```I am Gyeongbuk Software High school Student``` </br>
 ```Frontend Developer``` 
 
