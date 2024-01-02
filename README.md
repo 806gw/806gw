@@ -38,3 +38,4 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 ```Frontend Developer``` 
 -->
 
+<img src="https://github.com/806gw/806gw/assets/133763382/93406e67-71f1-4026-a35c-d524ef09626b" align="center"/>
