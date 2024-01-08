@@ -37,7 +37,7 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 -->
 <!-- <img src="https://github.com/806gw/806gw/assets/133763382/3a228094-bdc1-482e-ae5c-7746c507ee4b"/> -->
 <div display="flex">
- <img src="https://github.com/806gw/806gw/assets/133763382/d0dfc391-b0f6-412f-97a0-173fd5a7eaed" align="left" width="150px"/>
+ <img src="https://github.com/806gw/806gw/assets/133763382/d0dfc391-b0f6-412f-97a0-173fd5a7eaed" align="right" width="150px"/>
 
  > ### Gyeongbuk Software High school Student </br> Frontend Developer </br> [Hongje Seong](http://hongjedev.kro.kr/)
 > ### [More about me ⭐](https://806gw.notion.site/806gw/93c2748e0dc84106a14b440ce3908e6f)
