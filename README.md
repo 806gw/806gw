@@ -5,7 +5,7 @@
 <br/> --> 
 <!-- 불타는 경소고.. -->
 
-<!-- <div align="center"> 
+<!-- <div align="center">  
   <a href="mailto:shjea4364@naver.com" target="_blank">   
     <img src="https://img.shields.io/badge/Email-00BE53?style=for-the-badge&logo=naver&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;" />
   </a>
