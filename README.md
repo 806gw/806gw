@@ -26,7 +26,7 @@
 <!-- Profile, github Stack,, -->
 
 <!-- **Gyeongbuk Software High school Student\
-I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
+I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)** 
 \
 \
 **[More?](https://806gw.notion.site/fe76816270144fd7bc23ff959393452d?pvs=4)**
