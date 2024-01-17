@@ -3,7 +3,7 @@
 <img src="https://github.com/806gw/806gw/assets/133763382/07293585-718e-4b5f-917c-2b1a534f89ad" />
 </div>
 <br/> --> 
-<!-- 불타는 경소고.. -->
+<!-- 불타는 경소고.. --> 
 
 <!-- <div align="center">  
   <a href="mailto:shjea4364@naver.com" target="_blank">   
