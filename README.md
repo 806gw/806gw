@@ -1,8 +1,7 @@
-<!-- <div align="center">
+ <div align="center">
 <img src="https://github.com/806gw/806gw/assets/133763382/96ea1973-04f2-4c42-9ae7-c7505d769bb9" />
-<img src="https://github.com/806gw/806gw/assets/133763382/07293585-718e-4b5f-917c-2b1a534f89ad" />
+<!-- <img src="https://github.com/806gw/806gw/assets/133763382/07293585-718e-4b5f-917c-2b1a534f89ad" /> -->
 </div>
-<br/> --> 
 <!-- 불타는 경소고.. --> 
 
 <!-- <div align="center">  
@@ -36,12 +35,11 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 <img src="https://camo.githubusercontent.com/ea09d843e584c4c4365baf0f1b8e691a36e7355536170ea93d45ca58308e507a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966" width="55px" align="right">
 -->
 <!-- <img src="https://github.com/806gw/806gw/assets/133763382/3a228094-bdc1-482e-ae5c-7746c507ee4b"/> -->
-<div display="flex">
-<!--  <img src="https://github.com/806gw/806gw/assets/133763382/d0dfc391-b0f6-412f-97a0-173fd5a7eaed" align="left" width="150px"/> -->
 
+<!-- <div display="flex">
  > ### Gyeongbuk Software High school Student </br> Frontend Developer </br> [Hongje Seong](http://hongjedev.kro.kr/)
 > ### [More about me](https://806gw.notion.site/806gw/93c2748e0dc84106a14b440ce3908e6f)
-</div>
+</div> -->
 
 <!--
 <div align="center">
