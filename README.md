@@ -1,8 +1,8 @@
  <div align="center">
 <img src="https://github.com/806gw/806gw/assets/133763382/96ea1973-04f2-4c42-9ae7-c7505d769bb9" />
   
-  ### 차가운 청년 [성홍제](http://hongjedev.kro.kr/)
- ### [More about me](https://806gw.notion.site/806gw/93c2748e0dc84106a14b440ce3908e6f)
+  ### [차가운 청년](http://hongjedev.kro.kr/) 성홍제
+ ### [따뜻한 청년](https://806gw.notion.site/806gw/93c2748e0dc84106a14b440ce3908e6f) 성홍제
 <!-- <img src="https://github.com/806gw/806gw/assets/133763382/07293585-718e-4b5f-917c-2b1a534f89ad" /> -->
 </div>
 <!-- 불타는 경소고.. --> 
