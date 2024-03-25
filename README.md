@@ -51,7 +51,6 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 </div>
 -->
 
-
 ### learned & ing
 <table>
   <tr>
