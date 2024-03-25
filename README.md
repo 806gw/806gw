@@ -1,9 +1,11 @@
- <div align="center">
 <!-- <img src="https://github.com/806gw/806gw/assets/133763382/96ea1973-04f2-4c42-9ae7-c7505d769bb9" /> -->
-  
- <img src="https://github.com/806gw/806gw/assets/133763382/96ea1973-04f2-4c42-9ae7-c7505d769bb9" />
+<!--<img src="https://github.com/806gw/806gw/assets/133763382/96ea1973-04f2-4c42-9ae7-c7505d769bb9" />
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="70">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/TypeScript.png?raw=true" width="70">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/React.png?raw=true" width="70"> -->
+
+
 <!-- <img src="https://github.com/806gw/806gw/assets/133763382/07293585-718e-4b5f-917c-2b1a534f89ad" /> -->
-</div>
 <!-- 불타는 경소고.. --> 
 
 <!-- <div align="center">  
@@ -48,3 +50,13 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 <img src="https://github.com/806gw/806gw/assets/133763382/93406e67-71f1-4026-a35c-d524ef09626b" align="center" width="500px"/>
 </div>
 -->
+
+
+
+### Learning
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+
