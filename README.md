@@ -51,6 +51,8 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 </div>
 -->
 
+### frontend developer Hongje Seong </br> [about me](https://806gw.notion.site/806gw/93c2748e0dc84106a14b440ce3908e6f)
+
 ### learned & ing
 <table>
   <tr>
