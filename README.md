@@ -52,11 +52,25 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 -->
 
 
-
-### Learning
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### learned & ing
+<table>
+  <tr>
+         <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/806gw/806gw/assets/133763382/dd733ee1-b040-4502-b9a0-63efb820c6e4" width="48" height="48" alt="Golang" />
+      </a>
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/806gw/806gw/assets/133763382/499dde29-5394-4c37-ab4d-934c073f54c3" width="48" height="48" alt="Golang" />
+      </a>
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/806gw/806gw/assets/133763382/561ec58d-831b-46c8-9850-bb11442dc3bb" width="48" height="48" alt="Golang" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
