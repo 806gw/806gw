@@ -51,8 +51,7 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 </div>
 -->
 
-### frontend developer Hongje Seong </br> [about me](https://806gw.notion.site/806gw/93c2748e0dc84106a14b440ce3908e6f)
-
+```2024 SWgo hackathon Excellence Award🥉```
 ### learned & ing
 <table>
   <tr>
@@ -72,6 +71,4 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
       </a>
     </td>
   </tr>
-</table>
-
-
+</table> 
