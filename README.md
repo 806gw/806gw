@@ -55,17 +55,17 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 ### learned & ing
 <table>
   <tr>
-         <td align="center" width="96">
+         <td align="center" width="76">
       <a href="#macropower-tech">
         <img src="https://github.com/806gw/806gw/assets/133763382/dd733ee1-b040-4502-b9a0-63efb820c6e4" width="48" height="48" alt="Golang" />
       </a>
     </td>
-        <td align="center" width="96">
+        <td align="center" width="76">
       <a href="#macropower-tech">
         <img src="https://github.com/806gw/806gw/assets/133763382/499dde29-5394-4c37-ab4d-934c073f54c3" width="48" height="48" alt="Golang" />
       </a>
     </td>
-        <td align="center" width="96">
+        <td align="center" width="76">
       <a href="#macropower-tech">
         <img src="https://github.com/806gw/806gw/assets/133763382/561ec58d-831b-46c8-9850-bb11442dc3bb" width="48" height="48" alt="Golang" />
       </a>
