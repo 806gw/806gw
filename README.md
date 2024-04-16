@@ -68,7 +68,7 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
     </td>
         <td align="center" width="76">
       <a href="#macropower-tech">
-        <img src="https://github.com/806gw/806gw/assets/133763382/561ec58d-831b-46c8-9850-bb11442dc3bb" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/806gw/806gw/assets/133763382/59051115-e7b2-4032-894d-9c9895372e85" width="58" height="58" alt="Golang" />
       </a>
     </td>
   </tr>
