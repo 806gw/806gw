@@ -51,6 +51,8 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 </div>
 -->
 
+<!-- <img src="https://github.com/806gw/806gw/assets/133763382/96bfc02c-0f57-43e3-bc59-46c6e73951a3" align="right" width="60px"/> -->
+
 ### Learned & ing
 <table>
   <tr>
@@ -71,9 +73,9 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
     </td>
   </tr>
 </table> 
-<img src="https://github.com/806gw/806gw/assets/133763382/96bfc02c-0f57-43e3-bc59-46c6e73951a3" align="right" width="60px"/>
 
 ### Awards
 ```🥉 2024 SWgo hackathon Excellence Award```
 
+### Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=806gw&theme=chalk&row=2&column=5)
