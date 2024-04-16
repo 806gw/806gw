@@ -76,3 +76,4 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 ### Awards
 ```🥉 2024 SWgo hackathon Excellence Award```
 
+![trophy](https://github-profile-trophy.vercel.app/?username=806gw&theme=chalk&row=2&column=5)
