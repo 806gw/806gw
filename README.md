@@ -52,9 +52,7 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 -->
 
 <!-- <img src="https://github.com/806gw/806gw/assets/133763382/96bfc02c-0f57-43e3-bc59-46c6e73951a3" align="right" width="60px"/> -->
-
 ### Learned & ing
-<!--
 <table>
   <tr>
          <td align="center" width="76">
@@ -74,7 +72,6 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
     </td>
   </tr>
 </table> 
--->
 
 ### Awards
 ```🥉 2024 SWgo hackathon Excellence Award```
