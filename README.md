@@ -53,25 +53,11 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 
 <!-- <img src="https://github.com/806gw/806gw/assets/133763382/96bfc02c-0f57-43e3-bc59-46c6e73951a3" align="right" width="60px"/> -->
 ### Learned & ing
-<table>
-  <tr>
-         <td align="center" width="76">
-      <a href="#macropower-tech">
-        <img src="https://github.com/806gw/806gw/assets/133763382/dd733ee1-b040-4502-b9a0-63efb820c6e4" width="48" height="48" alt="Golang" />
-      </a>
-    </td>
-        <td align="center" width="76">
-      <a href="#macropower-tech">
-        <img src="https://github.com/806gw/806gw/assets/133763382/499dde29-5394-4c37-ab4d-934c073f54c3" width="48" height="48" alt="Golang" />
-      </a>
-    </td>
-        <td align="center" width="76">
-      <a href="#macropower-tech">
-        <img src="https://github.com/806gw/806gw/assets/133763382/59051115-e7b2-4032-894d-9c9895372e85" width="58" height="58" alt="Golang" />
-      </a>
-    </td>
-  </tr>
-</table> 
+[![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)
+
+### Tools
+[![My Tools](https://skillicons.dev/icons?i=pycharm,idea,vscode&perline=4)](https://skillicons.dev)
 
 ### Awards
 ```🥉 2024 SWgo hackathon Excellence Award```
