@@ -67,5 +67,5 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
    <strong>Tropy</strong>
   </summary> </br>
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=806gw&theme=chalk&row=2&column=5)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=806gw&theme=chalk&row=2)
 </details>
