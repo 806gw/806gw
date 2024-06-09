@@ -52,6 +52,9 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 -->
 
 <!-- <img src="https://github.com/806gw/806gw/assets/133763382/96bfc02c-0f57-43e3-bc59-46c6e73951a3" align="right" width="60px"/> -->
+### Hi there 👋
+### 
+
 ### Learned & ing
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,react)](https://skillicons.dev)
 
