@@ -56,10 +56,14 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 #### Gyeongbuk Software High school Student Front-end developer 
 
 ### Learned & ing
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react)](https://skillicons.dev)
+![React.js](https://img.shields.io/badge/React.js-02569B?style=round-square&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=round-square&logo=TypeScript&logoColor=white)
 
 ### Tools
-[![My Tools](https://skillicons.dev/icons?i=pycharm,vscode&perline=4)](https://skillicons.dev)
+![Git](https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC?style=round-square&logo=VisualStudioCode&logoColor=white)
+<!-- [![My Tools](https://skillicons.dev/icons?i=pycharm,vscode&perline=4)](https://skillicons.dev) -->
 
 ### Awards
 ```🥉 2024 SWgo hackathon Excellence Award```
