@@ -54,7 +54,7 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 <!-- <img src="https://github.com/806gw/806gw/assets/133763382/96bfc02c-0f57-43e3-bc59-46c6e73951a3" align="right" width="60px"/> -->
 ### Hi there 👋
 #### Gyeongbuk Software High school Student Front-end developer 
-
+#### → [List of projects and awards](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4) 
 ### Learned & ing
 ![React.js](https://img.shields.io/badge/React.js-02569B?style=round-square&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white)
