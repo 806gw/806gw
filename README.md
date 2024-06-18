@@ -60,7 +60,7 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 
 #### 사람들이 필요한 서비스를 만드는 개발자를 목표로 노력합니다.
 #### Gyeongbuk Software High school Student Front-end developer 
-#### → [List of projects and awards](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4) 
+#### 📝 [List of projects and awards](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4) 
 ### Learned & ing
 ![React.js](https://img.shields.io/badge/React.js-02569B?style=round-square&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white)
