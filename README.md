@@ -58,7 +58,6 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
   </a>
 </div>
 
-### Hi there 👋
 #### Gyeongbuk Software High school Student Front-end developer 
 #### → [List of projects and awards](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4) 
 ### Learned & ing
