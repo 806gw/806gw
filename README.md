@@ -52,6 +52,12 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 -->
 
 <!-- <img src="https://github.com/806gw/806gw/assets/133763382/96bfc02c-0f57-43e3-bc59-46c6e73951a3" align="right" width="60px"/> -->
+<div style="width: 100%; text-align: center;">
+  <a href="https://github.com/zzunipark/zzunipark/blame/main/animation.svg" target="_blank">
+    <img src="animation.svg" style="width: 100%;">
+  </a>
+</div>
+
 ### Hi there 👋
 #### Gyeongbuk Software High school Student Front-end developer 
 #### → [List of projects and awards](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4) 
