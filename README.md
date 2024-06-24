@@ -72,8 +72,8 @@ I'm [806gw](http://hongjedev.kro.kr/) (Hongje Seong)**
 <!-- [![My Tools](https://skillicons.dev/icons?i=pycharm,vscode&perline=4)](https://skillicons.dev) -->
 
 ### Awards
-```🥉 2024 SWgo hackathon Excellence Award```   
-```🥉 2024 26th APPJAM Hackathon participation prize```
+```🥉 2024 SWgo hackathon Excellence Prize```   
+```🥉 2024 26th APPJAM Hackathon Participation Prize```
 
 </br>
 <details>
