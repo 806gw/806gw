@@ -1,4 +1,4 @@
-#### Hi there 👋
+### Hi there 👋
 #### 사람들이 필요한 서비스를 만드는 개발자를 목표로 노력합니다.
 #### Gyeongbuk Software High school Student Front-end developer 
 #### 📝 [List of projects and awards](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4) 
