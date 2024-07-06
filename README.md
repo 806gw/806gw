@@ -1,6 +1,8 @@
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="65" height="65" align="right"/>
+
 > [!note]
 > - 경북소프트웨어고등학교 소프트웨어개발과 3기   
-> -  [List of projects and awards](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4) 
+> -  [List of projects and awards](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4)
 
 <!--
 ### Hi there 👋
