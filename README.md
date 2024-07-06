@@ -1,3 +1,8 @@
+> [!note]
+> - 경북소프트웨어고등학교 소프트웨어개발과 3기   
+> -  [List of projects and awards](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4) 
+
+<!--
 ### Hi there 👋
 #### 사람들이 필요한 서비스를 만드는 개발자를 목표로 노력합니다.
 #### Gyeongbuk Software High school Student Front-end developer 
@@ -12,11 +17,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC?style=round-square&logo=VisualStudioCode&logoColor=white)
 <!-- [![My Tools](https://skillicons.dev/icons?i=pycharm,vscode&perline=4)](https://skillicons.dev) -->
 
+<!--
 ### Awards
 ```🥉 2024 SWgo hackathon Excellence Prize```   
-```🥉 2024 26th APPJAM Hackathon Participation Prize```
-
+```🥉 2024 26th APPJAM Hackathon Participation Prize```   
 </br>
+
 <details>
   <summary>
    <strong>Tropy</strong>
@@ -24,6 +30,8 @@
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=806gw&theme=chalk&row=1)
 </details>
+-->
+
 
 <!-- <img src="https://github.com/806gw/806gw/assets/133763382/96ea1973-04f2-4c42-9ae7-c7505d769bb9" /> -->
 <!--<img src="https://github.com/806gw/806gw/assets/133763382/96ea1973-04f2-4c42-9ae7-c7505d769bb9" />
