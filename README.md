@@ -1,9 +1,11 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="65" height="65" align="right"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="85" height="85" align="right"/>
 
 > [!note]
 > - 경북소프트웨어고등학교 소프트웨어개발과 3기   
-> - [프로젝트 및 수상목록 📝](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4)
+> - [프로젝트 및 수상목록 📝](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4)   
+</br>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=806gw&theme=chalk&row=1)
 <!--
 ### Hi there 👋
 #### 사람들이 필요한 서비스를 만드는 개발자를 목표로 노력합니다.
