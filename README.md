@@ -6,7 +6,13 @@
 > - [개인 블로그 ✍️](https://velog.io/@806gw/posts)
 </br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=806gw&theme=chalk&row=1)
+<details>
+  <summary>
+   <strong>Tropy</strong>
+  </summary> </br>
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=806gw&theme=chalk&row=1)
+</details>
 <!--
 ### Hi there 👋
 #### 사람들이 필요한 서비스를 만드는 개발자를 목표로 노력합니다.
