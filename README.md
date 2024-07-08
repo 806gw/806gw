@@ -2,7 +2,8 @@
 
 > [!note]
 > - 경북소프트웨어고등학교 소프트웨어개발과 3기   
-> - [프로젝트 및 수상목록 📝](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4)   
+> - [프로젝트 및 수상목록 📝](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4)
+> - [개인 블로그 ✍️](https://velog.io/@806gw/posts)
 </br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=806gw&theme=chalk&row=1)
