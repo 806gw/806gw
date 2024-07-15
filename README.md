@@ -5,7 +5,12 @@
 > - [포트폴리오 🪪](https://806gw.github.io/terminal/)   
 > - [프로젝트 및 수상목록 📝](https://806gw.notion.site/93c2748e0dc84106a14b440ce3908e6f?pvs=4)
 > - [개인 블로그 ✍️](https://velog.io/@806gw/posts)
-</br>
+
+### Awards
+
+```🥇 2024 On-campus Entrepreneurship Competition Gold Prize```   
+```🥉 2024 SWgo hackathon Excellence Prize```   
+```🥉 2024 26th APPJAM Hackathon Participation Prize```   
 
 <details>
   <summary>
@@ -31,6 +36,8 @@
 
 <!--
 ### Awards
+
+``` 🥇 ```
 ```🥉 2024 SWgo hackathon Excellence Prize```   
 ```🥉 2024 26th APPJAM Hackathon Participation Prize```   
 </br>
