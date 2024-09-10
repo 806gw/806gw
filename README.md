@@ -1,7 +1,5 @@
-> [!note]
+### 안녕하세요, [성홍제](https://daffy-stop-f69.notion.site/064fef310ae2418fa36304d85e581085?pvs=4)입니다. 👋
 > 경북소프트웨어고등학교 소프트웨어개발과 3기   
-> 사람들이 필요한 서비스를 만드는 개발자가 되기 위해 노력하고 있습니다.
 
-</br>
-
-저에 대한 더 자세한 소개는 [여기](https://daffy-stop-f69.notion.site/064fef310ae2418fa36304d85e581085?pvs=4)에서 확인할 수 있습니다.
+<code><img height="45" src="https://skillicons.dev/icons?i=javascript&theme=light"></code>
+<code><img height="45" src="https://skillicons.dev/icons?i=react&theme=dark"></code>
