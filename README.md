@@ -1,4 +1,14 @@
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="65" height="65" align="right"/>
+
 > [!note]
-> <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="55px" align="right">
-> ### 안녕하세요, [성홍제](https://daffy-stop-f69.notion.site/064fef310ae2418fa36304d85e581085?pvs=4)입니다. 👋
-> 경북소프트웨어고등학교 소프트웨어개발과 3기
+> Hi there, I am **Hongje Seong**. 👋      
+> I'm focus on Frontend Development.
+
+### More about me 
+<div display="flex">
+  <a href="https://velog.io/@806gw" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>      
+&nbsp;&nbsp;
+<a href="https://daffy-stop-f69.notion.site/064fef310ae2418fa36304d85e581085?pvs=4" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-fff?style=flat-square&logo=Notion&logoColor=black"/>
+</a>
+</div>
