@@ -1,5 +1,5 @@
 ## @806gw
-Hi there 👋 I am [**Hongje Seong**](hongjeeeee.vercel.app).  
+Hi there 👋 I am [**Hongje Seong**](https://hongjeeeee.vercel.app/).  
 
 I'm focused on studying Frontend.
 
